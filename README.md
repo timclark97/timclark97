@@ -5,6 +5,7 @@ Fullstack devloper specializing in React, Typescript, and Node
 --------------------------------------------------------------
 
 *   🌍  I'm based in United States
+*   💻  Check out my [personal site] for more about me(https://www.tmrc.dev/)
 *   ✉️  You can contact me at [tim@tmrc.com](mailto:tim@tmrc.com)
 *   🧠  I'm learning Svelte, SvelteKit, and the Web Crypto API
 
