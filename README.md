@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer specializing in React, Typescript, and Node
 --------------------------------------------------------------
 
-*   🌍  I'm based in United States
+*   🌍  I'm based in Ohio
 *   💻  Check out my [personal site](https://www.tmrc.dev/) for more about me
 *   ✉️  You can contact me at [tim@tmrc.com](mailto:tim@tmrc.com)
 *   🧠  I'm learning Svelte, SvelteKit, and the Web Crypto API
