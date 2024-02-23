@@ -7,7 +7,7 @@ Fullstack developer specializing in React, Typescript, and Node
 *   🌍  I'm based in Ohio
 *   💻  Check out my [personal site](https://www.tmrc.dev/) for more about me
 *   ✉️  You can contact me at [tim@tmrc.dev](mailto:tim@tmrc.dev)
-*   🧠  I'm learning Svelte, SvelteKit, and the Web Crypto API
+*   🧠  I'm learning Remix, and the Web Crypto API
 
 ### Skills 
 <p align="left">
