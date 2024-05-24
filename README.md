@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
+## I am the creator and maintainer of [SnapSafe](https://snapsafe.app), an end to end encrypted Google Photos alternative (still a work in progress 🚧)
+
 Fullstack developer specializing in React, Typescript, and Node
 --------------------------------------------------------------
 
 *   🌍  I'm based in Ohio
-*   💻  Creator and maintainor of [SnapSafe](https://snapsafe.app)
 *   ✉️  You can contact me at [tim@tmrc.dev](mailto:tim@tmrc.dev)
-*   🧠  I'm learning Remix, and the Web Crypto API
 
 ### Skills 
 <p align="left">
