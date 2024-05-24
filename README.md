@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =================================================================================================================================
 
-## I am the creator and maintainer of [SnapSafe](https://snapsafe.app), an open source end to end encrypted Google Photos alternative (still a work in progress 🚧)
+## I am the creator and maintainer of [SnapSafe](https://snapsafe.app), a self-hosted, open-source, end-to-end-encrypted Google Photos alternative (still a work in progress 🚧)
 
 Fullstack developer specializing in React, Typescript, and Node
 --------------------------------------------------------------
